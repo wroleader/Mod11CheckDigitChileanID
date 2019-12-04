@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorRUTRUN", "ValidadorRUTRUN\ValidadorRUTRUN.csproj", "{EBA4BEC1-8304-4E21-B69C-0F154DCED12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA4BEC1-8304-4E21-B69C-0F154DCED12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA4BEC1-8304-4E21-B69C-0F154DCED12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA4BEC1-8304-4E21-B69C-0F154DCED12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA4BEC1-8304-4E21-B69C-0F154DCED12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C19F46-A8CC-4BF7-BC7C-E2692735D365}
+	EndGlobalSection
+EndGlobal
